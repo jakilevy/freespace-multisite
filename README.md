@@ -6,7 +6,7 @@ This document will help us list out how we can create a WordPress multiste netwo
 
 Our current site is hosted on WP Engine.
 
-We would like to setup the domain to be a wildcard domain, so every new site will 
+We would like to setup the domain to be a wildcard domain, so every new site will have its own freespace.io domain (*.freespace.io/)
 http://support.wpengine.com/how-to-add-new-sites-with-different-domains-in-wordpress-multisite/
 
 We need :
